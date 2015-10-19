@@ -1,1 +1,0 @@
-# GaveltonLibrary_ObjectOrientedProgramming
